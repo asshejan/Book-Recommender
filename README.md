@@ -40,7 +40,7 @@ The **Semantic Book Recommender** uses the following steps:
 ├── books_with_emotions.csv # Dataset containing books metadata, emotions, and thumbnails
 ├── tagged_description.txt  # File with tagged descriptions for semantic embeddings
 ├── requirements.txt        # List of Python dependencies
-├── .env                    # Environment variables (for any API keys, if needed)
+├── .env                    # Environment variables (for any OpenAI & Huggingface API keys)
 └── README.md               # This README file
 ```
 
