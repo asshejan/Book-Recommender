@@ -101,7 +101,7 @@ Feel free to contribute to the **Semantic Book Recommender** by:
 ## 📧 Support
 
 If you have any questions or run into issues, feel free to contact me:
-- GitHub: [Your GitHub Profile](https://github.com/asshejan)
+- GitHub: [Abu Sayeam Shejan](https://github.com/asshejan)
 
 ---
 
